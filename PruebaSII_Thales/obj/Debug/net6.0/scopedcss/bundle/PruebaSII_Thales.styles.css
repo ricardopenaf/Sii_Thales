@@ -1,0 +1,49 @@
+/* _content/PruebaSII_Thales/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-l37v5hnial] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-l37v5hnial] {
+  color: #0077cc;
+}
+
+.btn-primary[b-l37v5hnial] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-l37v5hnial], .nav-pills .show > .nav-link[b-l37v5hnial] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-l37v5hnial] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-l37v5hnial] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-l37v5hnial] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-l37v5hnial] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-l37v5hnial] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

@@ -1,0 +1,12 @@
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Entities\bin\Debug\net6.0\Entities.deps.json
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Entities\bin\Debug\net6.0\Entities.dll
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Entities\bin\Debug\net6.0\Entities.pdb
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Entities\obj\Debug\net6.0\Entities.dll
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Entities\obj\Debug\net6.0\refint\Entities.dll
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Entities\obj\Debug\net6.0\Entities.pdb
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Entities\obj\Debug\net6.0\ref\Entities.dll

@@ -1,0 +1,15 @@
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\bin\Debug\net6.0\Business.deps.json
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\bin\Debug\net6.0\Business.dll
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\bin\Debug\net6.0\Business.pdb
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\bin\Debug\net6.0\Entities.dll
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\bin\Debug\net6.0\Entities.pdb
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\obj\Debug\net6.0\Business.dll
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\obj\Debug\net6.0\refint\Business.dll
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\obj\Debug\net6.0\Business.pdb
+G:\MisDatos\PruebasNet\PruebaSII_Thales\PruebaSII_Thales\Business\obj\Debug\net6.0\ref\Business.dll
